@@ -32,3 +32,46 @@ XAI enables oversight, auditing, and human control over automated medical decisi
 ## Flowchart
 ![](lit1.PNG)
 # Part II
+## Background/Motivation:
+- Heart failure is a prevalent and life-threatening condition associated with significant mortality rates, underscoring the importance of accurate survival prediction for effective medical management (Wrazen et al. 2023). Machine learning models have demonstrated potential in predicting patient outcomes (Wrazen et al. 2023). However, the opaque nature of these models has raised concerns regarding their applicability in clinical settings (Aghamohammadi et al. 2019). To address this challenge, the field of Explainable Artificial Intelligence (XAI) has emerged, aiming to develop models that are transparent and interpretable for clinicians, providing insights into the prediction process (Aghamohammadi et al. 2019).
+
+## Research Question:
+- This research seeks to explore how XAI techniques can enhance heart failure patient survival prediction by developing interpretable models. Specifically, the study aims to answer the following research question: "Can the integration of XAI techniques improve the transparency and interpretability of heart failure patient survival prediction models while maintaining or enhancing predictive accuracy?"
+
+## Application Scenarios:
+- The proposed research has broad applications in clinical decision support for heart failure. Successful implementation can assist healthcare professionals in making informed decisions about treatment strategies and resource allocation, ultimately leading to improved patient outcomes and more efficient resource utilization.
+
+## Data:
+- The research will utilize the heart failure patient survival prediction dataset from a reliable source, incorporating patient demographics, clinical variables, and survival outcomes. This dataset will serve as the foundation for developing and evaluating machine learning models.
+
+## Methodology:
+- Model Development: Train machine learning models for heart failure survival prediction.
+
+- Model Evaluation: Assess model performance using standard metrics such as accuracy, sensitivity, specificity, and area under the ROC curve. Evaluate XAI models based on their interpretability.
+
+## Results:
+- The research aims to provide insights into the effectiveness of XAI techniques in improving the transparency and interpretability of heart failure patient survival prediction models. Results will encompass quantitative model performance metrics and qualitative assessments of model interpretability.
+
+## Intellectual Merits/Practical Impacts:
+The intellectual merits of this research lie in advancing XAI techniques in the healthcare domain, particularly for heart failure patient survival prediction. Enhanced model interpretability can empower healthcare professionals to make more informed and reliable decisions, potentially leading to improved patient outcomes.
+## Citation
+- Wrazen, Weronika, Kordian Gontarska, Felix Grzelka, and Andreas Polze. "Explainable AI for Medical Event Prediction for Heart Failure Patients." In International Conference on Artificial Intelligence in Medicine, pp. 97-107. Cham: Springer Nature Switzerland, 2023.
+# Citations
+```
+@inproceedings{wrazen2023explainable,
+  title={Explainable AI for Medical Event Prediction for Heart Failure Patients},
+  author={Wrazen, Weronika and Gontarska, Kordian and Grzelka, Felix and Polze, Andreas},
+  booktitle={International Conference on Artificial Intelligence in Medicine},
+  pages={97--107},
+  year={2023},
+  organization={Springer}
+}
+@inproceedings{aghamohammadi2019predicting,
+  title={Predicting heart attack through explainable artificial intelligence},
+  author={Aghamohammadi, Mehrdad and Madan, Manvi and Hong, Jung Ki and Watson, Ian},
+  booktitle={Computational Science--ICCS 2019: 19th International Conference, Faro, Portugal, June 12--14, 2019, Proceedings, Part II 19},
+  pages={633--645},
+  year={2019},
+  organization={Springer}
+}
+```
