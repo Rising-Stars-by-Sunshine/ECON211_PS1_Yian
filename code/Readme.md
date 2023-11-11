@@ -1,5 +1,6 @@
 # Code
 - The Python code processes a dataset named "heart.csv" using the pandas library. The dataset contains information related to heart health, including attributes such as age, sex, chest pain type, and various medical measurements. The script extracts specific columns from the dataset and transforms the data into a JSON format, which is then saved in a file named "data.json." The code iterates through the rows of the dataset, creating a list of dictionaries, with each dictionary representing an individual's health record. The generated JSON file can be utilized for further analysis or data sharing. To enhance readability, consider adding comments to describe each section of the code, explaining its purpose and functionality. Additionally, provide information on how to interpret the resulting JSON structure and its potential applications.
+# Pseudo-code
 ```
 # Import necessary libraries
 import pandas as pd
