@@ -18,3 +18,7 @@
 | Oldpeak         | ST depression induced by exercise relative to rest  | The degree of ST depression                         | Continuous    | 0 to 4               | Dimensionless | Numerical |
 | ST_Slope        | ST segment slope during exercise                    | Up, Flat                                            | Categorical   | Up, Flat             | Category    | Categorical |
 | HeartDisease    | Presence or absence of heart disease                 | Presence (1) or absence (0) of heart disease        | Binary        | 0, 1                 | Category    | Binary    |
+# Flowchart
+![](1.png)
+# Citation
+- FEDESORIANO. 2021. “Heart Failure Prediction Dataset.” Www.kaggle.com. 2021. https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction.
