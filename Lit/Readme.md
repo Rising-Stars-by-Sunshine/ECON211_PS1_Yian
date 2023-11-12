@@ -30,7 +30,7 @@ XAI enables oversight, auditing, and human control over automated medical decisi
 - The proposed recommendation and scoring systems aim to advance XAI capabilities.
 - Overall, the paper demonstrates how XAI can enable trustworthy AI in medicine.
 ## Flowchart
-![](lit1.PNG)
+![](lit1.png)
 # Part II
 ## Background/Motivation:
 - Heart failure is a prevalent and life-threatening condition associated with significant mortality rates, underscoring the importance of accurate survival prediction for effective medical management (Wrazen et al. 2023). Machine learning models have demonstrated potential in predicting patient outcomes (Wrazen et al. 2023). However, the opaque nature of these models has raised concerns regarding their applicability in clinical settings (Aghamohammadi et al. 2019). To address this challenge, the field of Explainable Artificial Intelligence (XAI) has emerged, aiming to develop models that are transparent and interpretable for clinicians, providing insights into the prediction process (Aghamohammadi et al. 2019).
