@@ -11,7 +11,7 @@
       - [Intellectual Merits and Practical Impacts](#Intellectual)
       - [Flowchart](#flowchart)
       - [XAI Relation](https://github.com/Rising-Stars-by-Sunshine/ECON211_PS1_Yian/tree/main/Lit#xai-relation)
-   2. [Part II: Predicting Gold Price Changes Using Machine Learning Methods](#id)
+   2. [Part II: Predicting Heart Failure](#id)
       - [Background/Motivation](#backgroundmotivation)
       - [Research Question](#research-question)
       - [Application Scenarios](#application-scenarios)
