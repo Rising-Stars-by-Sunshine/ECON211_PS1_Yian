@@ -1,4 +1,33 @@
 # ECON211_PS1_Yian
+## Table of Contents
+1. [Self Introduction](#self-introduction)
+2. [Lit](#literature)
+   1. [Part I](#)
+      - [Background](#introduction)
+      - [Research Question](#ResearchQuestion)
+      - [Application Scenario](#Application-Scenario)
+      - [Methodology](#Methodology)
+      - [Results](#Results)
+      - [Intellectual Merits and Practical Impacts](#Intellectual)
+      - [Flowchart](#flowchart)
+      - [XAI Relation](https://github.com/Rising-Stars-by-Sunshine/ECON211_PS1_Yian/tree/main/Lit#xai-relation)
+   2. [Part II: Predicting Gold Price Changes Using Machine Learning Methods](#id)
+      - [Background/Motivation](#backgroundmotivation)
+      - [Research Question](#research-question)
+      - [Application Scenarios](#application-scenarios)
+      - [Data](https://github.com/Rising-Stars-by-Sunshine/ECON211_PS1_Yian/tree/main/Lit#data)
+      - [Methodology](#methodology)
+      - [Results](#results)
+      - [Intellectual Merits/Practical Impacts](#intellectual-meritspractical-impacts)
+      - [Flowchart](#flowchart-1)
+      - [Citation](#citations-for-this-part)
+3. [Data](#data)
+   - [Data dictionary](#data-dictionary)
+   - [Flowchart](#flowchart-2)
+4. [Code](#code)
+   - [Flowchart](#flowchart-2)
+   - [Pseudo-code](#pseudo-code)
+5. [Citations](#citations)
 ## Self-Introduction
 ### **Education**
 - Yian Pei is currently pursuing a dual degree program at Duke Kunshan University (DKU) and Duke University, with an expected graduation in July 2023. As a sophomore, Yian's academic focus is on Applied Mathematics and Computational Sciences with a secondary emphasis on Computer Science. Their academic performance is commendable, boasting a GPA of 3.6/4.0, and they have earned a place on the Dean's List in the Fall of 2021. Yian has completed various courses, including Neuro102 and Neuro212, showcasing their interdisciplinary approach to education.
