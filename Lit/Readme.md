@@ -54,6 +54,8 @@ XAI enables oversight, auditing, and human control over automated medical decisi
 
 ## Intellectual Merits/Practical Impacts:
 The intellectual merits of this research lie in advancing XAI techniques in the healthcare domain, particularly for heart failure patient survival prediction. Enhanced model interpretability can empower healthcare professionals to make more informed and reliable decisions, potentially leading to improved patient outcomes.
+## Flowchart
+- ![](lit2.png)
 ## Citation
 - Wrazen, Weronika, Kordian Gontarska, Felix Grzelka, and Andreas Polze. "Explainable AI for Medical Event Prediction for Heart Failure Patients." In International Conference on Artificial Intelligence in Medicine, pp. 97-107. Cham: Springer Nature Switzerland, 2023.
 # Citations
