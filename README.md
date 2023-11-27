@@ -46,9 +46,6 @@
 ### **Publication**
 - Yian Pei has co-authored a publication titled "Development and analysis of a novel AF11–2 aptamer capable of enhancing the fluorescence of aflatoxin B1," which was featured in the Chinese Chemical Letters in 2022. This publication reflects their contributions to cutting-edge research in the field.
 
-### Grammarly
-- ![](image.png)
-
 ### **Additional Information**
 - Yian is proficient in both Chinese Mandarin (native) and English (fluent). They have a strong skill set that includes Java, Python, MS Excel, Meshlab, ImageJ, and Matlab, highlighting their technical expertise and versatility. Yian Pei's academic achievements, research contributions, and professional experiences underscore their dedication to interdisciplinary learning and commitment to making a meaningful impact in their field.
 ![](yian.jpg)
